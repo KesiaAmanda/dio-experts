@@ -1,0 +1,12 @@
+
+spring:
+  data:
+     elasticsearch:
+       cluster-nodes=localhost:9300
+
+  application:
+    name: product-catalog
+
+  cloud:
+    config:
+      uri: http://localhost:8888
