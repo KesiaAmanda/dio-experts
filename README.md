@@ -2,7 +2,7 @@
 
 Projeto em Java com Spring Cloud.
 
->  Microserviços:
+>  Microsserviços:
 >
 > * Config Server 
 > * Service Discovery
